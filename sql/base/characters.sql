@@ -112,6 +112,7 @@ UNLOCK TABLES;
 -- Table structure for table `character_action`
 --
 
+
 DROP TABLE IF EXISTS `character_action`;
 CREATE TABLE `character_action` (
   `guid` int(11) unsigned NOT NULL DEFAULT '0' COMMENT 'Global Unique Identifier',
