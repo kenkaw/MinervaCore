@@ -35,6 +35,7 @@ INSERT INTO `character_db_version` VALUES
 /*!40000 ALTER TABLE `character_db_version` ENABLE KEYS */;
 UNLOCK TABLES;
 
+
 --
 -- Table structure for table `account_instances_entered`
 --
