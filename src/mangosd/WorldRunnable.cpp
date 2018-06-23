@@ -36,7 +36,6 @@
 extern int m_ServiceStatus;
 #endif
 
-
 /// Heartbeat for the World
 void WorldRunnable::run()
 {
