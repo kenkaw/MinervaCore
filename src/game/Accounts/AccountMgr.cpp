@@ -27,7 +27,6 @@
 
 extern DatabaseType LoginDatabase;
 
-
 INSTANTIATE_SINGLETON_1(AccountMgr);
 
 AccountMgr::AccountMgr()
