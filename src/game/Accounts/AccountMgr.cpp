@@ -56,7 +56,6 @@ AccountOpResult AccountMgr::CreateAccount(std::string username, std::string pass
     return AOR_OK;                                          // everything's fine
 }
 
-
 AccountOpResult AccountMgr::DeleteAccount(uint32 accid) const
 {
     QueryResult* result = LoginDatabase.PQuery("SELECT 1 FROM account WHERE id='%u'", accid);
