@@ -8,8 +8,6 @@ option(BUILD_EXTRACTORS     "Build map/dbc/vmap/mmap extractors"    OFF)
 option(BUILD_SCRIPTDEV      "Build ScriptDev. (OFF Speedup build)"  ON)
 option(BUILD_PLAYERBOT      "Build Playerbot mod"                   OFF)
 
-
-
 # TODO: options that should be checked/created:
 #option(CLI                  "With CLI"                              ON)
 #option(RA                   "With Remote Access"                    OFF)
