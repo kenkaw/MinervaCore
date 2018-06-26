@@ -14,6 +14,7 @@ option(BUILD_PLAYERBOT      "Build Playerbot mod"                   OFF)
 #option(SQL                  "Copy SQL files"                        OFF)
 #option(TOOLS                "Build tools"                           OFF)
 
+
 message("")
 message(STATUS
   "This script builds the MaNGOS server.
